@@ -8,7 +8,7 @@
 
 <p align="center">
   <strong>
-    <a href="https://github.com/studiokozak/SK-Repaer-Themes/releases/latest">
+    <a href="https://github.com/studiokozak/SK-Reaper-Themes/releases/latest">
       Download Latest Release
     </a>
   </strong>
