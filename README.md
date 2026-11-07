@@ -1,5 +1,5 @@
 <p align="center">
-  <em>I love the Apollo REAPER theme, and my Roland SP-404MKII too, so I tried to blend the two ;)</em>
+  <em>I love the Apollo Reaper theme, and my Roland SP-404MKII too, so I tried to blend the two ;)</em>
 </p>
 
 <p align="center">
